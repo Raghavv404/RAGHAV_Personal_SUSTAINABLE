@@ -1,7 +1,7 @@
 # Personal CO2 Footprint Estimation - Week 2 Lab Notes
 
-**Author:** Raghav[cite: 1]  
-**Course:** Sustainable Computing (SUSCOMP-2026)[cite: 1]  
+**Author:** Raghav Verma 
+**Course:** Sustainable Computing (SUSCOMP-2026)
 **Location:** Ljubljana, Slovenia  
 **Carbon Intensity Source:** ~220 g CO₂e/kWh (Slovenian electricity grid baseline, European Environment Agency / Electricity Maps)
 
@@ -83,7 +83,7 @@ $$\text{Annual CO}_2\text{e} = \text{kWh yearly} \times 0.220\text{ kg CO}_2\tex
 | **iPhone 16** (6h doomscroll/daily) | 2.60 W | 0.15 W | 0 W | 0.018 | 0.128 | 6.68 | 1.47 kg |
 | **MacBook Air M1** (Energy Saver) | 7.50 W | 0.25 W | 0 W | 0.068 | 0.473 | 24.68 | 5.43 kg |
 | **Wi-Fi Router** | 8.00 W | 8.00 W | 0 W | 0.192 | 1.344 | 70.08 | 15.42 kg |
-| **Total** | — | — | — | **0.278** | **1.945** | **101.44** | **22.32 kg** |
+| **Total** | 18.10 W | 8.40 W | 0.00 W | **0.278** | **1.945** | **101.44** | **22.32 kg** |
 
 ---
 
@@ -120,5 +120,3 @@ Direct device power is only a fraction of the story. While my iPhone and MacBook
 
 ### Takeaway
 The upstream electricity needed to route and transmit my data over the network (**219.0 kWh/year**) is **more than double the total direct electricity of all three devices combined** (101.4 kWh/year). 
-
-While mobile chips and laptops have become extraordinarily power-efficient, every high-definition video streamed or reel scrolled requires edge cell towers, optical repeaters, and internet exchange switches to move those packets. From a sustainability standpoint, changing digital habits (like cutting down mindless background video feeds) has a far greater carbon impact than adjusting device screen brightness or unplugging a phone charger.
