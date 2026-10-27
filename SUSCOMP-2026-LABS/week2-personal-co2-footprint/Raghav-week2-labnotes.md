@@ -10,6 +10,7 @@
 ## 1. Device Inventory & Real-world Usage
 
 ### Device 1: Apple MacBook Air 13" (M1 chip, 2020)
+
 * **What it is:** My main workhorse machine. I’ve been using this same MacBook Air for the last 5–6 years now, and as a CS student, it stays open practically all day for programming, lab work, terminal sessions, and coursework[cite: 1]. In my free time, I use it to upskill on Udemy or YouTube, or just watch random content.
 * **Usage habits:** 
   * I log around **8.5 hours a day** of active screen work (varying between 7 to 10 hours depending on workload and lab days).
